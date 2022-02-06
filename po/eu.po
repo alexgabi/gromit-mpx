@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../src/callbacks.c:648
 msgid "About Gromit-MPX"
-msgstr "Gromit-MPXi buruz"
+msgstr "Gromit-MPX-i buruz"
 
 #: ../src/main.c:791
 msgid "Bigger Opacity"
